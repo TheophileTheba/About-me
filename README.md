@@ -5,7 +5,7 @@ My little journey
 🎓 I’m pursuing my **Master’s in Data Analytics for Business** at *Seattle Pacific University*  
 💼 AAS-IT Data management BAS-Data Management and Analysis focus in BI
 📊 Passionate about **Business Intelligence, Data Visualization, and Ethical AI** 
- Peer Educator with the *Umoja Program* at Bellevue College from 2022-2024*
+/Peer Educator with the *Umoja Program* at Bellevue College from 2022-2024*
 💡 I enjoy transforming complex data into actionable insights that drive equity and innovation  
 ---
 
